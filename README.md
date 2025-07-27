@@ -3,7 +3,7 @@
 
 대화형 지도를 사용하여 사용자가 지정한 경로의 고도 프로필을 시각화하고 상세하게 분석하는 웹 애플리케이션입니다.
 
-실행주소1 : https://terrain.vercel.app/
+실행주소1 : https://terrain-one.vercel.app/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
