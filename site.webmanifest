@@ -1,0 +1,14 @@
+{
+  "name": "지형 프로필 분석기",
+  "short_name": "지형분석기",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#4CAF50",
+  "background_color": "#1F2937",
+  "display": "standalone"
+} 
